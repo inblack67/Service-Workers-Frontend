@@ -1,0 +1,27 @@
+{
+  "short_name": "SWs",
+  "name": "Service Workers",
+  "icons": [
+    {
+      "src": "./icons/github.png",
+      "sizes": "48x48",
+      "type": "image/webp"
+    },
+    {
+      "src": "./icons/github.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "./icons/github.png",
+      "sizes": "72x72 96x96 128x128 256x256"
+    },
+    {
+      "src": "./icons/github.svg",
+      "sizes": "72x72"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#000000"
+}
